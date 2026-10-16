@@ -1,4 +1,4 @@
-# Linear Algebra for Data Science — Labs
+# Linear Algebra — Labs
 
 ## 👥 Team Members
 
