@@ -8,7 +8,7 @@ Each laboratory work is located in dedicated folder along with related materials
 | Name              | Lab 1                 | Lab 2                 |
 |-------------------|-----------------------|-----------------------|
 | Maria Cherkasova  | Core-A, Extension 2   | Core-B                |
-| Andrii Polishko   | Core-B                | Core-A, Extension 1   |
+| Andrii Polishko   | Core-B                | Core-A, Extension 2   |
 
 ## Lab 1
 
