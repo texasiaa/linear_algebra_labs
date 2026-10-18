@@ -17,7 +17,7 @@ Each laboratory work is located in dedicated folder along with related materials
 | NumPy   | 2.1.3   |
 | pandas  | 2.2.3   |
 
-## Lab 2 — Power iteration and inverse iteration, Markov chains and PageRank
+## Lab 2
 
 | Package    | Version |
 |------------|---------|
